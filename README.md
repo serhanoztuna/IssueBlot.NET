@@ -1,11 +1,9 @@
-
-
-  
 # CodeThreat - SAST Benchmark Tool for Web Application Security
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fserhanoztuna%2FIssueBlot.NET.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fserhanoztuna%2FIssueBlot.NET?ref=badge_shield)
 
 
 
@@ -99,3 +97,7 @@ For any questions or discussions, please open an issue on this repository, and w
 [license-url]: https://github.com/CodeThreat/IssueBlot.NET/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/codethreat
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fserhanoztuna%2FIssueBlot.NET.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fserhanoztuna%2FIssueBlot.NET?ref=badge_large)
